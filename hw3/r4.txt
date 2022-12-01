@@ -1,0 +1,15 @@
+Student ID : 20171585
+Name : Domin Kim
+in flood select
+in flood select
+in flood select
+in flood select
+13240 -> send to 13239
+in query select
+in query select
+in query select
+in query select
+in query select
+13240 -> send to 13239
+in query select
+PeerInfo src 58 target 19 name n2619 IP 127.0.0.1 port 13236 hop 3

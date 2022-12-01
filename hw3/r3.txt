@@ -1,0 +1,45 @@
+Student ID : 20171585
+Name : Domin Kim
+new connection detected: ('127.0.0.1', 55698)
+new connection detected: ('127.0.0.1', 55703)
+13239 -> send to 13237
+13239 -> send to 55703
+in flood select
+in flood select
+13239 -> send to 13237
+13239 -> send to 55703
+in flood select
+in flood select
+in flood select
+in flood select
+in flood select
+13239 -> send to 55698
+13239 -> send to 13237
+13239 -> send to 55703
+in query select
+13239 -> send to 55698
+13239 -> send to 55703
+in flood select
+in flood select
+13239 -> send to 55698
+13239 -> send to 13237
+in flood select
+in flood select
+in flood select
+in flood select
+in flood select
+in flood select
+13239 -> send to 55698
+13239 -> send to 13237
+13239 -> send to 55703
+in query select
+in query select
+in query select
+in query select
+in query select
+in query select
+13239 -> send to 55698
+13239 -> send to 13237
+in flood select
+PeerInfo src 45 target 58 name n2658 IP 127.0.0.1 port 13240 hop 1
+PeerInfo src 45 target 19 name n2619 IP 127.0.0.1 port 13236 hop 3

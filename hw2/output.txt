@@ -1,0 +1,26 @@
+Student ID : 20171585
+Name : Domin Kim
+Connection : Host IP 127.0.0.1, Port 62424, socket 4
+GET /biga.html HTTP/1.1
+User-Agent: Wget/1.21.3
+5 headers
+text/html
+finish 10818 10818
+Connection : Host IP 127.0.0.1, Port 62425, socket 4
+GET /a.html HTTP/1.1
+User-Agent: Wget/1.21.3
+5 headers
+text/html
+finish 44 44
+Connection : Host IP 127.0.0.1, Port 62427, socket 4
+GET /b.html HTTP/1.1
+User-Agent: Wget/1.21.3
+5 headers
+text/html
+finish 44 44
+Connection : Host IP 127.0.0.1, Port 62428, socket 4
+GET /palladio.jpg HTTP/1.1
+User-Agent: Wget/1.21.3
+5 headers
+image/jpeg
+finish 142740 142740
